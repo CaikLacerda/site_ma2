@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bg-primary-color {
+    background-color: #fdb16a;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.253);
+}
+
+.bg-secondary-color {
+    background-color: #000;
+}
+
+.primary-color {
+    color: #1d1b1b;
+}
+
+.secondary-color {
+    color: #fff;
+}
+
+.item-menu:hover {
+    color: #000000;
+    border-bottom: 2px solid #000000;
+}
+
+.logo{
+    color: #000000;
+}
+
+.footer {
+    height: 4em;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
