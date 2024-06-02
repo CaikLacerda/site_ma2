@@ -7,7 +7,7 @@ function exibirPodioVolei() {
 }
 
 function exibirPodioTenis() {
-    window.alert('1º Lugar: Engenhearia da Computação\n2º Lugar: Psicologia\n3º lugar: Sistemas de Informação');
+    window.alert('1º Lugar: Engenhearia da Computação\n2º Lugar: Pedagogia\n3º lugar: Sistemas de Informação');
 }
 
 function exibirPodioFut() {
